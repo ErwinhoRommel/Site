@@ -1,1 +1,6 @@
 hello world!
+
+lista de compras:
+maçã
+pêra
+uva
